@@ -145,7 +145,7 @@ print("El rendimiento estimado del estudiante es:", round(prediccion[0][0], 2), 
 ------------------------------------------------------------------------
 
 
-## 🛡️ Licencia y uso
+## Licencia y uso
 
 Este material es para fines **educativos**. Podés reutilizarlo en clases
 citando la fuente del repositorio.
